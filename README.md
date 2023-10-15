@@ -30,13 +30,6 @@ Hoje sou estudante de Análise e Desenvolvimento de Sistemas e trabalho como Des
 
 ###
 
-
-<div align="center">
- 
-  ![snake gif](https://github.com/yasmindematos/yasmindematos/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 ###
 <hr>
 <div align="center">
