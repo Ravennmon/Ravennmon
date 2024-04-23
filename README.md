@@ -1,7 +1,5 @@
 <div align="center">
-<p>
-  <img src= "https://cdn.discordapp.com/attachments/1054148317782745149/1163183782120128532/Hello_1.png?ex=653ea650&is=652c3150&hm=4389326f8aa669fd8d56e7bc584deced4c141015a0878dc6f7df28f0dd7cb094&"  />
-</p>
+
 </div>
 Olá! Sou a Francyne, mais conhecida como Ravennmon, Designer Instrucional, e já caminhou muito pelas aguas de edição de vídeos e grafica, comecei minha caminhada de troca de carreira, após trancar uma faculdade de Fisíca Licenciatura no 6º semestre. 
 <br>
